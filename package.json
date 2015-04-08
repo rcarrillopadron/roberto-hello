@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rcarrillopadron/roberto-hello/issues"
   },
-  "homepage": "https://github.com/rcarrillopadron/roberto-hello"
+  "homepage": "https://github.com/rcarrillopadron/roberto-hello",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
