@@ -1,6 +1,6 @@
 {
   "name": "roberto-hello",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Demo of my custom NPM package",
   "main": "index.js",
   "scripts": {
